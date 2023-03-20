@@ -1,0 +1,57 @@
+[
+    {
+        "id" : 1,
+        "title" : "Çay",
+        "price" : 3,
+        "img" : "https://cdn.dsmcdn.com/ty285/product/media/images/20220103/22/21058288/136089256/2/2_org_zoom.jpg"
+    },
+    
+    {
+        "id" : 2,
+        "title" : "Kahve",
+        "price" : 6,
+        "img" : "https://cdn.cimri.io/market/260x260/starbucks-chilled-classics-220-ml-coffee-latte-kahve-_91208.jpg"
+    },
+    
+    {
+        "id" : 3,
+        "title" : "Yemek",
+        "price" : 16,
+        "img" : "https://p4.wallpaperbetter.com/wallpaper/67/212/889/fish-dish-herbs-lemon-wallpaper-preview.jpg"
+    },
+    
+    {
+        "id" : 4,
+        "title" : "Cep Telefonu",
+        "price" : 990,
+        "img" : "https://m.media-amazon.com/images/I/31Vle5fVdaL.jpg"
+    },
+    {
+        "id" : 5,
+        "title" : "Araba",
+        "price" : 40000,
+        "img" : "https://media.peugeot.com.ec/image/70/8/gris-artense.785708.63.jpeg?autocrop=1"
+    },
+    
+    {
+        "id" : 6,
+        "title" : "Lüks Araba",
+        "price" : 3000000,
+        "img" : "https://p4.wallpaperbetter.com/wallpaper/268/268/875/ferrari-mansory-vehicle-sports-car-tuning-hd-wallpaper-preview.jpg"
+    },
+    
+    {
+        "id" : 7,
+        "title" : "Ev",
+        "price" : 1000000,
+        "img" : "https://thumbs.dreamstime.com/b/condominium-apartment-building-isolated-white-background-d-illustration-condominium-apartment-building-isolated-white-141265126.jpg"
+    },
+    
+    {
+        "id" : 8,
+        "title" : "Villa",
+        "price" : 5000000,
+        "img" : "https://media.istockphoto.com/id/1144612139/photo/3d-render-modern-of-house-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=6jmJjw6jv60X1Eyw2AC7VtaliPS2voPQ4KANdCLVR8w="
+    }
+
+]
